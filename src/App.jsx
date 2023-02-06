@@ -1,11 +1,11 @@
-import { login } from './utils';
-import './index.css';
 import { useState } from 'react';
+import './index.css';
+import { login } from './utils';
 
 // Instruções:
-// * Você tem um formulário de login INCOMPLETO
-// * Não é permitido adicionar novos elementos HTML
-// * Não é permitido usar refs
+// ! Você tem um formulário de login INCOMPLETO
+// ! Não é permitido adicionar novos elementos HTML
+// ! Não é permitido usar refs
 //
 // Tarefas:
 // todo - O botão de login deve disparar a função login(), importada no topo deste arquivo, e passar os dados necessários.
